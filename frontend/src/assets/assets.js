@@ -7,7 +7,7 @@ import p1 from "./p1.jpg";
 import arrow_fletch from "./AF.png";
 import finger_tabs from "./FT.png";
 import arrow_box from "./AB.jpeg";
-import fletch from "./f.png";
+import fletch from "./F.png";
 import repair_bag from "./REPAIR_KIT.png";
 import bamboo_arrow from "./BA.png";
 import nock from "./nock.png";
