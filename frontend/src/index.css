@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active hr {
+  display: block;
+}
+* {
+  font-family: Outfit;
+  /* background-color: #fbfbfb; */
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.parkinsans-bold {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
