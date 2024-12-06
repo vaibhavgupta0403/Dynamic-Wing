@@ -18,7 +18,7 @@ const Login = ({ setToken }) => {
       if (response.data.success) {
         setToken(response.data.token);
       } else {
-        console.log("nope");
+        // console.log("nope");
         toast.error(response.data.message);
       }
     } catch (error) {
