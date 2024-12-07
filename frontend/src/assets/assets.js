@@ -15,6 +15,7 @@ import arrow_point from "./AP.png";
 import bow_bag from "./BB.png";
 import chest_guard from "./CG.png";
 import contact_hero from "./contact_hero.jpg";
+import menu_icon from "./menu_icon.png";
 
 export const assets = {
   logo,
@@ -24,6 +25,7 @@ export const assets = {
   p1,
   bin_icon,
   contact_hero,
+  menu_icon,
   arrow_box,
   arrow_fletch,
   finger_tabs,
